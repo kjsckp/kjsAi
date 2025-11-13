@@ -1,0 +1,14 @@
+{
+  "name": "kjs-ai-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^5.0.0",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.1"
+  }
+}
